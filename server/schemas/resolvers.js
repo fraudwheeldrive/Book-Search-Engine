@@ -7,4 +7,3 @@ const resolvers = {
   };
   
   module.exports = resolvers;
-  That's all we need to get this sample
