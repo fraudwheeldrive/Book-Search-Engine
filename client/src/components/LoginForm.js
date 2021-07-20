@@ -1,4 +1,6 @@
 // see SignupForm.js for comments
+
+// refactor for use with apollo 
 import React, { useState } from 'react';
 import { Form, Button, Alert } from 'react-bootstrap';
 
